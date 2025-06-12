@@ -1,0 +1,129 @@
+[
+  {
+    "user_id": "34567",
+    "name": "aashish",
+    "hashedPassword": "12345",
+    "tickets_booked": [
+      {
+        "source": "Nepal",
+        "destination": "Switzerland",
+        "date_of_travel": "2023-12-08T18:30:00Z",
+        "train": {
+          "train_id": "basic",
+          "train_no": 2345,
+          "seats": [
+            [0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0]
+          ],
+          "station": {
+            "bangalore": "13:50:00",
+            "jaipur": "13:50:00",
+            "delhi": "13:50:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "user_id": "34568",
+    "name": "sujan",
+    "hashedPassword": "abcde",
+    "tickets_booked": [
+      {
+        "source": "Nepal",
+        "destination": "India",
+        "date_of_travel": "2023-11-12T10:00:00Z",
+        "train": {
+          "train_id": "express",
+          "train_no": 1122,
+          "seats": [
+            [1, 0, 1, 0, 0, 1],
+            [0, 1, 0, 1, 0, 0]
+          ],
+          "station": {
+            "gorakhpur": "08:00:00",
+            "lucknow": "10:30:00",
+            "kanpur": "12:00:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "user_id": "34569",
+    "name": "priyanka",
+    "hashedPassword": "secure@123",
+    "tickets_booked": [
+      {
+        "source": "Nepal",
+        "destination": "Bhutan",
+        "date_of_travel": "2023-10-01T09:15:00Z",
+        "train": {
+          "train_id": "mountainline",
+          "train_no": 4455,
+          "seats": [
+            [0, 1, 1, 0],
+            [1, 1, 0, 0]
+          ],
+          "station": {
+            "biratnagar": "06:00:00",
+            "birtamode": "07:45:00",
+            "phuntsholing": "09:00:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "user_id": "34570",
+    "name": "bikash",
+    "hashedPassword": "hello123",
+    "tickets_booked": [
+      {
+        "source": "Nepal",
+        "destination": "China",
+        "date_of_travel": "2023-12-15T20:00:00Z",
+        "train": {
+          "train_id": "himalayan",
+          "train_no": 7788,
+          "seats": [
+            [0, 0, 0],
+            [1, 1, 1]
+          ],
+          "station": {
+            "kathmandu": "17:30:00",
+            "rasuwa": "18:45:00",
+            "kerung": "20:00:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "user_id": "34571",
+    "name": "sandhya",
+    "hashedPassword": "pwSandhya!",
+    "tickets_booked": [
+      {
+        "source": "Nepal",
+        "destination": "Thailand",
+        "date_of_travel": "2024-01-10T13:45:00Z",
+        "train": {
+          "train_id": "panasian",
+          "train_no": 9900,
+          "seats": [
+            [0, 1, 1, 0],
+            [0, 0, 0, 1]
+          ],
+          "station": {
+            "bhairahawa": "11:00:00",
+            "patna": "12:30:00",
+            "kolkata": "13:45:00"
+          }
+        }
+      }
+    ]
+  }
+]
