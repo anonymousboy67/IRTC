@@ -23,7 +23,7 @@ public class UserBookingService{
 
     private User user;
 
-    private final String USER_FILE_PATH = "app/src/main/java/ticket/booking/localDb/users.json";
+    private final String USER_FILE_PATH = "app/src/main/java/org/example/localDb/users.json";
 
     public UserBookingService(User user) throws IOException {
         this.user = user;
